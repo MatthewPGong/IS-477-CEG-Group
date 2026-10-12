@@ -27,7 +27,7 @@ November 19 - Complete Interim Status Report and submit before the assignment de
 November 22 - Complete analysis of the combined dataset, and finish answering the related research questions using the analyzed data. - Alex\
 November 29 - Everyone will begin working on the final project submission and creating the final deliverable describing our accomplishments on this project. Parts will be assigned based off of everyone’s contributions to the project so far, with other work being distributed evenly and fairly. - All of the group Members\
 December 06 - Final meeting, project should be all finalized at this point with all necessary points covered. We will meet to ensure that nothing else is missing and to make any final changes to the project. - All of the group members\
-December 07 - Complete Final Project Submission before the assignment deadline. - All of the group members\
+December 07 - Complete Final Project Submission before the assignment deadline. - All of the group members
 
 Constraints:
 
