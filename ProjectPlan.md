@@ -18,7 +18,7 @@ Datasets:
 
 Timeline: Here is a draft of our project timeline, including what is required, when the task should be complete, and who will be completing it.
 
-October 18 - Clean each of the three datasets, making sure that there are no missing values, duplicate values, or errors. - Inseo
+October 18 - Clean each of the three datasets, making sure that there are no missing values, duplicate values, or errors. - Inseo\
 October 25 - Join each of the three cleaned datasets together using common identifies and attributes. Ensure that no information is being lost in the process. - Matthew
 November 1 - Midpoint meeting, confirm that data is ready for analysis and everyone is on the same page at this point in the process. Identify next steps for analysis and potential paths to take - All of the group members
 November 8 - Start analysis of the combined dataset, creating visualizations and statistics to help answer the research questions. - Alex
