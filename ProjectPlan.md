@@ -21,6 +21,30 @@ How do weather and airport traffic relate to flight delays, and which airports a
 
 ## Datasets:
 
+We will integrate three datasets that each contribute a different part of the picture: flight delays, airport locations, and weather conditions. None of them come from Kaggle.
+
+### 1. BTS Airline On-Time Performance
+- **Source:** U.S. Bureau of Transportation Statistics - https://transtats.bts.gov/ontime/
+- **Content:** Flight-level records for U.S. domestic flights, including flight date, carrier, origin and destination airport codes, scheduled and actual times, delay minutes, cancellations, and delay causes (including weather).
+- **Role:** Main dataset. It provides our outcome variable (delays) and lets us calculate airport traffic (number of flights per airport and time period).
+
+### 2. OpenFlights Airport Data
+- **Source:** OpenFlights - https://openflights.org/data.php
+- **Content:** Airport name, city, country, IATA/ICAO codes, latitude, longitude, and time zone.
+- **Role:** Bridge dataset. It links airport codes in the BTS data to geographic coordinates so we can match each airport to a weather station.
+
+### 3. NOAA Local Climatological Data (LCD)
+- **Source:** NOAA National Centers for Environmental Information - https://www.ncei.noaa.gov/node/1566
+- **Content:** Hourly and daily weather observations (temperature, precipitation, wind, visibility) from airport and other weather stations.
+- **Role:** Provides the weather variables used to study how conditions relate to delays.
+
+### How the datasets connect
+- BTS and OpenFlights are joined on the airport IATA code.
+- OpenFlights and NOAA LCD are joined by matching each airport's latitude/longitude to the nearest weather station.
+- BTS and NOAA LCD are joined on date (and hour, where available) for the matched airport.
+
+Each dataset adds different information (delays, location, weather), and together they let us answer our research question about how weather conditions and airport traffic affect flight delays at U.S. airports.
+
 ## Timeline: 
 Here is a draft of our project timeline, including what is required, when the task should be complete, and who will be completing it.
 
