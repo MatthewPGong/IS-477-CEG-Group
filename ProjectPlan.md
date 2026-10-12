@@ -37,6 +37,9 @@ December 07 - Complete Final Project Submission before the assignment deadline. 
 
 ## Constraints:
 
+The biggest constraints include the lack of information on individual flights in the OpenFlights data, as this dataset specializes in providing identification information on routes. This still provides valuable indexing information that is more comprehensive than the on-time statistics. These two datasets are therefore good complements. The Bureau of Transportation Statistics website splits data on Departures, Arrivals, Airborne Time, Cancellations, and Diversions, into separate tables, and they are all voluminous datasets that may be unwieldy to download and work with. That will cause problems. These may include “downloadability” problems pertaining to certain spatiotemporal limitations (for example, it may only be possible to download data over time intervals of one month). 
+Furthermore, merging flight information datasets with local climatological data will be a difficult process, as it will require data calculated on hourly intervals in order to accurately measure the impact of weather on individual flights (as we know, weather can change quickly in a given day). Again, this amount of data is simply enormous, and over a large area, this may be technically difficult to manage and integrate.
+
 ## Gaps:
 
-
+We will certainly learn a lot on our own and as a group while working on the data integration and how to conceptualize that conversion. We also may have to compromise on whatever timeframe we determine for the project due to the sheer amount of flights in American airspace daily, which would all ideally be tied to climatological data as a supplement to data on flight delays, cancellations, and the amount of time flights took. 
