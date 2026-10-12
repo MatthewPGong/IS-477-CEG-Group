@@ -1,5 +1,9 @@
 Overview: 
+Our project will explore how weather conditions and airport traffic relate to flight delays and cancellations at selected U.S. airports. We want to identify patterns in flight disruptions and compare how reliably airports operate during similar poor weather conditions.
 
+We plan to combine NOAA Local Climatological Data, BTS Airline On-Time Statistics, and a third dataset containing airport traffic volume. These datasets will provide information about local weather, flight performance, and how busy each airport is. We will select airports and a time period with overlapping data coverage.
+
+Before combining the datasets, we will check for missing values, duplicate records, inconsistent formats, and differences in measurement units. We will match weather stations to airports and connect weather observations to flights using their scheduled departure dates and times. Airport traffic data will be linked using airport identifiers and matching months. After that integration we will check for unmatched records and unexpected changes in record counts. Finally we will create summary statistics and visualizations to compare delays, cancellations, and on time departure rates across airports.
 Team: 
 
 Tasks and roles are distributed accordingly with each member’s individual strengths, interests, and availability in mind. These roles may be adjusted if a member encounters any difficulties or conflicts when approaching their assigned work. Everyone will participate in the documentation process and work collaboratively with each other to ensure cohesiveness.
@@ -12,7 +16,7 @@ Matthew: WIll handle identifying common attributes among each of the data sets a
 
 Alex: WIll handle analysis of the combined dataset and utilizing the data to answer our project’s research questions. Includes creating any important visuals, statistics, or graphs that will impact or is important to the analysis process. Will also document their results and their thought process behind their analysis.
 
-Research or Business Questions:
+Research or Business Questions: How do weather and airport traffic relate to flight delays, and which airports are most reliable during poor weather?
 
 Datasets:
 
