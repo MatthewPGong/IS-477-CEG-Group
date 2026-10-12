@@ -19,15 +19,15 @@ Datasets:
 Timeline: Here is a draft of our project timeline, including what is required, when the task should be complete, and who will be completing it.
 
 October 18 - Clean each of the three datasets, making sure that there are no missing values, duplicate values, or errors. - Inseo\
-October 25 - Join each of the three cleaned datasets together using common identifies and attributes. Ensure that no information is being lost in the process. - Matthew
-November 1 - Midpoint meeting, confirm that data is ready for analysis and everyone is on the same page at this point in the process. Identify next steps for analysis and potential paths to take - All of the group members
-November 8 - Start analysis of the combined dataset, creating visualizations and statistics to help answer the research questions. - Alex
-November 15 - At this point, everyone will pause on the project itself and begin working collaboratively on completing the Interim Status Report project. Parts will be assigned based off of everyone’s contributions to the project so far, with other work being distributed evenly and fairly. - All of the group members
-November 19 - Complete Interim Status Report and submit before the assignment deadline. After, resume the project process and work towards finishing analysis. - All of the group members
-November 22 - Complete analysis of the combined dataset, and finish answering the related research questions using the analyzed data. - Alex
-November 29 - Everyone will begin working on the final project submission and creating the final deliverable describing our accomplishments on this project. Parts will be assigned based off of everyone’s contributions to the project so far, with other work being distributed evenly and fairly. - All of the group Members
-December 06 - Final meeting, project should be all finalized at this point with all necessary points covered. We will meet to ensure that nothing else is missing and to make any final changes to the project. - All of the group members
-December 07 - Complete Final Project Submission before the assignment deadline. - All of the group members
+October 25 - Join each of the three cleaned datasets together using common identifies and attributes. Ensure that no information is being lost in the process. - Matthew\
+November 1 - Midpoint meeting, confirm that data is ready for analysis and everyone is on the same page at this point in the process. Identify next steps for analysis and potential paths to take - All of the group members\
+November 8 - Start analysis of the combined dataset, creating visualizations and statistics to help answer the research questions. - Alex\
+November 15 - At this point, everyone will pause on the project itself and begin working collaboratively on completing the Interim Status Report project. Parts will be assigned based off of everyone’s contributions to the project so far, with other work being distributed evenly and fairly. - All of the group members\
+November 19 - Complete Interim Status Report and submit before the assignment deadline. After, resume the project process and work towards finishing analysis. - All of the group members\
+November 22 - Complete analysis of the combined dataset, and finish answering the related research questions using the analyzed data. - Alex\
+November 29 - Everyone will begin working on the final project submission and creating the final deliverable describing our accomplishments on this project. Parts will be assigned based off of everyone’s contributions to the project so far, with other work being distributed evenly and fairly. - All of the group Members\
+December 06 - Final meeting, project should be all finalized at this point with all necessary points covered. We will meet to ensure that nothing else is missing and to make any final changes to the project. - All of the group members\
+December 07 - Complete Final Project Submission before the assignment deadline. - All of the group members\
 
 Constraints:
 
