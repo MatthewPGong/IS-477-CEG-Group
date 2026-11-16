@@ -40,4 +40,4 @@ Matthew - Created the StatusReport.md file, and independently completed the "Upd
 
 Alex - Authored the "Update on Tasks/Progress Made."
 
-Inseo - Inseo - Wrote the "Datasets" section of ProjectPlan.md, proposed the NOAA Local Climatological Data as our weather dataset, and created and submitted the project-plan release for Milestone 2. Also reviewed the Milestone 2 feedback and helped organize the Status Report process.
+Inseo - Wrote the "Datasets" section of ProjectPlan.md, proposed the NOAA Local Climatological Data as our weather dataset, and created and submitted the project-plan release for Milestone 2. Also reviewed the Milestone 2 feedback and helped organize the Status Report process.
