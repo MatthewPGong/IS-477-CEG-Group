@@ -10,7 +10,7 @@ November 22 - Start analysis of the combined dataset, creating visualizations an
 November 29 - Complete analysis of the combined dataset, and finish answering the related research questions using the analyzed data. - Alex (Not Started)\
 December 3 - Everyone will begin working on the final project submission and creating the final deliverable describing our accomplishments on this project. Parts will be assigned based off of everyone’s contributions to the project so far, with other work being distributed evenly and fairly. - All of the group Members (Not Started)\
 December 06 - Final meeting, project should be all finalized at this point with all necessary points covered. We will meet to ensure that nothing else is missing and to make any final changes to the project. - All of the group members (Not Started)\
-December 07 - Complete Final Project Submission before the assignment deadline. - All of the group members (Not Started)\
+December 07 - Complete Final Project Submission before the assignment deadline. - All of the group members (Not Started)
 
 Already completed: Clean each of the three datasets, making sure that there are no missing values, duplicate values, or errors. - Saanvi
 
