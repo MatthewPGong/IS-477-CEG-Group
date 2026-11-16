@@ -18,6 +18,11 @@ Already completed: Clean each of the three datasets, making sure that there are 
 Regarding feedback from Milestone 2, we did not receive any specific requests to revise our original project plan. As a result, compared to our initial project plan, there have not been any major changes to our overall project objectives, research question, selected datasets, etc... However, to be transparent, our progress during this course projecet has been slower than initially anticipated, and we have not yet started or completed the data integration and analysis stages that we originally expected to have begun by this point. As a result, our original timeline will need to be adjusted to account for the remaining work and the limited time we have left before the final submission. The main adjustments we anticipate making involve revising our timeline and better organizing the remaining work to ensure that we can complete the project by the final submission deadline.
 
 ## Current Challenges or Problems:
+One challenge was that the three datasets came in different formats. The OpenFlights file had no column headers, so I added them and used the airport code to find the O’Hare record. The NOAA file contained weather observations for 2026, so I filtered it to January to match the flight data. I kept the original observation times so the team can match them to scheduled departure times during the merge.
+
+Another challenge was deciding what to do with missing departure delays. The cleaned flight dataset had 25,131 records, and all 909 blank departure-delay values came from canceled flights. I kept those flights and left their delay values blank so they could still be included when calculating the cancellation rate.
+
+The next challenge is matching flights to weather observations because the scheduled departure times and weather timestamps may fall at different minutes. During the merge, we’ll check that the timestamps use the same time basis, then record how many flights match a weather observation and check that the merge doesn’t create extra flight rows. The cleaning steps and validation results are in the data cleaning notebook.
 
 ## Individual Contributions:
 Matthew - Created the StatusReport.md file, and independently completed the "Updated Timeline" and "Changes to the Project Plan" sections to the Status Report.
