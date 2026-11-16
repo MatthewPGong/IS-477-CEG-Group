@@ -41,3 +41,5 @@ Matthew - Created the StatusReport.md file, and independently completed the "Upd
 Alex - Authored the "Update on Tasks/Progress Made."
 
 Inseo - Wrote the "Datasets" section of ProjectPlan.md, proposed the NOAA Local Climatological Data as our weather dataset, and created and submitted the project-plan release for Milestone 2. Also reviewed the Milestone 2 feedback and helped organize the Status Report process.
+
+Saanvi - I cleaned the January 2026 O’Hare flight, airport, and weather data, uploaded the notebook and three cleaned CSVs to GitHub, and wrote the challenges section of the report explaining how I handled different file formats and missing delay values.
