@@ -7,7 +7,7 @@ The three CSVs were filtered together to only include flights at O'Hare Internat
 The weather dataset was cleaned as well. Dates were standardized, and information about temperature, precipitation, wind speed, and visibility was kept for our use. That [dataset](
 weather_ord_jan2026_clean.csv) was uploaded like the others to this repository.
 
-Considering the limiting of the dataset to contain only scheduled flights at O'Hare Airport in January 2026, this shifts our existing research questions to where we will be more focused on illustrating the impact of weather on flight delays at this single airport pertaining to individual airlines. We had previously been more interested in researching weather and airport traffic relationships across airports. We will also have to look in detail at flights delayed or cancelled for reasons other than weather.
+Considering our limiting of the dataset to contain only scheduled flights at O'Hare Airport in January 2026, our existing research questions have changed. We had previously been more interested in researching weather and airport traffic relationships across airports, but this has shifted based on the data cleaning to where we will focus on illustrating the impact of weather on flight delays at this single airport, and this would likely be framed in terms of individual airlines and days.  We will also have to look in detail at flights delayed or cancelled for reasons deemed to be separate from weather.
 
 No work on visualization of data trends across the datasets has started.
 
