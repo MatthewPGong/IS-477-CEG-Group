@@ -1,5 +1,16 @@
 ## Update on Tasks/Progress Made:
 
+The primary piece of progress made was that the datasets we chose for this project have been cleaned and optimized for research. The workflow for this process can be seen [using this link.](clean_datasets.ipynb)
+
+The three CSVs were filtered together to only include flights at O'Hare International Airport in Chicago that departed in January 2026. Dates and airport codes were standardized. We also examined duplicates and missing values, ensuring such data issues were identified and corrected. Information about cancelled flights was kept, and delay values for them were left blank. The dataset for flights can be viewed [here.](flights_ord_jan2026_clean.csv).
+
+The weather dataset was cleaned as well. Dates were standardized, and information about temperature, precipitation, wind speed, and visibility was kept for our use. That [dataset](
+weather_ord_jan2026_clean.csv) was uploaded like the others to this repository.
+
+Considering the limiting of the dataset to contain only scheduled flights at O'Hare Airport in January 2026, this shifts our existing research questions to where we will be more focused on illustrating the impact of weather on flight delays at this single airport pertaining to individual airlines. We had previously been more interested in researching weather and airport traffic relationships across airports. We will also have to look in detail at flights delayed or cancelled for reasons other than weather.
+
+No work on visualization of data trends across the datasets has started.
+
 ## Updated Timeline:
 Here is our updated project timeline, including the status of each task and when the task will be completed. Due to changes in our work plan and everyone's recent availability, due dates have been pushed back in comparison to the original planned timeline.
 
@@ -26,3 +37,5 @@ The next challenge is matching flights to weather observations because the sched
 
 ## Individual Contributions:
 Matthew - Created the StatusReport.md file, and independently completed the "Updated Timeline" and "Changes to the Project Plan" sections to the Status Report.
+
+Alex - Authored the "Update on Tasks/Progress Made."
