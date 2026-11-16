@@ -2,7 +2,7 @@
 
 The primary piece of progress made was that the datasets we chose for this project have been cleaned and optimized for research. The workflow for this process can be seen [using this link.](clean_datasets.ipynb)
 
-The three CSVs were filtered together to only include flights at O'Hare International Airport in Chicago that departed in January 2026. Dates and airport codes were standardized. We also examined duplicates and missing values, ensuring such data issues were identified and corrected. Information about cancelled flights was kept, and delay values for them were left blank. The dataset for flights can be viewed [here.](flights_ord_jan2026_clean.csv).
+The three CSVs were filtered together to only include flights at O'Hare International Airport in Chicago that departed in January 2026. Dates and airport codes were standardized. We also examined duplicates and missing values, ensuring such data issues were identified and corrected. Information about cancelled flights was kept, and delay values for them were left blank. The dataset for flights can be viewed [here.](flights_ord_jan2026_clean.csv)
 
 The weather dataset was cleaned as well. Dates were standardized, and information about temperature, precipitation, wind speed, and visibility was kept for our use. That [dataset](
 weather_ord_jan2026_clean.csv) was uploaded like the others to this repository.
